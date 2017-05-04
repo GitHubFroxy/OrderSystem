@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/blue.css</file>
+        <file>image/error.png</file>
+        <file>image/fontawesome-webfont.ttf</file>
+        <file>image/info.png</file>
+        <file>image/question.png</file>
+        <file>image/toolbar/table.png</file>
+        <file>image/menu/0.png</file>
+        <file>image/menu/1.png</file>
+        <file>image/menu/2.png</file>
+        <file>image/menu/3.png</file>
+        <file>image/menu/4.png</file>
+        <file>image/menu/5.png</file>
+        <file>image/menu/6.png</file>
+        <file>image/menu/7.png</file>
+        <file>image/menu/8.png</file>
+        <file>image/menu/9.png</file>
+        <file>image/menu/10.png</file>
+        <file>image/menu/11.png</file>
+        <file>image/menu/12.png</file>
+        <file>image/menu/13.png</file>
+        <file>image/menu/14.png</file>
+        <file>image/menu/15.png</file>
+        <file>image/evaluate/star.png</file>
+        <file>image/evaluate/star_check.png</file>
+        <file>image/menu/16.png</file>
+        <file>image/menu/17.png</file>
+        <file>image/menu/18.png</file>
+        <file>image/menu/19.png</file>
+        <file>image/menu/20.png</file>
+        <file>image/menu/21.png</file>
+        <file>image/menu/22.png</file>
+        <file>image/menu/23.png</file>
+        <file>image/menu/24.png</file>
+        <file>image/menu/25.png</file>
+        <file>image/menu/26.png</file>
+    </qresource>
+</RCC>
